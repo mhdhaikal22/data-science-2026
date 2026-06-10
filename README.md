@@ -51,6 +51,7 @@ Menggunakan Google Colab
 2. Klik tombol Open in Colab atau unggah file .ipynb ke Google Colab
 3. Jalankan setiap cell secara berurutan dari atas ke bawah
 
+---
 
 6. Kesimpulan
 
