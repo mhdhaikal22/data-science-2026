@@ -47,9 +47,9 @@ Di dalam repository ini terdapat berbagai notebook praktikum yang membahas konse
 
 Menggunakan Google Colab
 
-1. Buka notebook yang diinginkan.
-2. Klik tombol Open in Colab atau unggah file .ipynb ke Google Colab.
-3. Jalankan setiap cell secara berurutan dari atas ke bawah.
+1. Buka notebook yang diinginkan
+2. Klik tombol Open in Colab atau unggah file .ipynb ke Google Colab
+3. Jalankan setiap cell secara berurutan dari atas ke bawah
 
 
 6. Kesimpulan
