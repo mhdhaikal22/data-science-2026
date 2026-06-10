@@ -45,7 +45,7 @@ Di dalam repository ini terdapat berbagai notebook praktikum yang membahas konse
 
 5. Cara Menjalankan Notebook
 
-# Menggunakan Google Colab
+Menggunakan Google Colab
 
 1. Buka notebook yang diinginkan.
 2. Klik tombol **Open in Colab** atau unggah file `.ipynb` ke Google Colab.
