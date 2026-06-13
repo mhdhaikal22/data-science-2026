@@ -19,13 +19,13 @@ Di dalam repository ini terdapat berbagai notebook praktikum yang membahas konse
 
 3. Daftar Pertemuan
 
-| 1 | Pengenalan Data Science dan Python | [Pertemuan 1](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan1_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb) |
-| 2 | Dasar Python untuk Data Science | [Pertemuan 2](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan2_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb) |
-| 3 | Data Cleaning dan Data Preparation | [Pertemuan 3](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan3_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb) |
-| 4 | Statistika Dasar dan Analisis Data | [Pertemuan 4](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan4_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb) |
-| 5 | Visualisasi Data | [Pertemuan 5](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan5_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb) |
-| 6 | Persiapan Data (Preprocessing) | [Pertemuan 6](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan6_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb) |
-| 7 | Pengantar Machine Learning - Regresi Linear | [Pertemuan 7](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan7_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb) |
+- | 1 | Pengenalan Data Science dan Python | [Pertemuan 1](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan1_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb) 
+- | 2 | Dasar Python untuk Data Science | [Pertemuan 2](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan2_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb) 
+- | 3 | Data Cleaning dan Data Preparation | [Pertemuan 3](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan3_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb) 
+- | 4 | Statistika Dasar dan Analisis Data | [Pertemuan 4](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan4_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb) 
+- | 5 | Visualisasi Data | [Pertemuan 5](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan5_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb) 
+- | 6 | Persiapan Data (Preprocessing) | [Pertemuan 6](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan6_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb)
+- | 7 | Pengantar Machine Learning - Regresi Linear | [Pertemuan 7](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan7_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb) 
 
 ---
 
