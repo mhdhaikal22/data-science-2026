@@ -5,7 +5,7 @@ Portofolio Data Science
 - Nama : Muhammad Haikal
 - NIM : 240401010269
 - Kelas : IF401
-- Program Studi : s! PJJ Informatika
+- Program Studi : S1 PJJ Informatika
 
 ---
 
