@@ -11,9 +11,9 @@ Portofolio Data Science
 
 2. Deskripsi Repository
 
-Halo, saya Muhammad Haikal, mahasiswa Program Studi Informatika. Repository ini dibuat sebagai dokumentasi proses pembelajaran mata kuliah Data Science mulai dari Pertemuan 1 hingga Pertemuan 7.
+Halo, saya Muhammad Haikal, mahasiswa Program Studi Informatika. Repository ini dibuat sebagai dokumentasi proses pembelajaran mata kuliah Pengantar Data Science mulai dari Pertemuan 1 hingga Pertemuan 13.
 
-Di dalam repository ini terdapat berbagai notebook praktikum yang membahas konsep dasar Data Science, mulai dari pengenalan Python untuk analisis data, eksplorasi data, data cleaning, visualisasi data, preprocessing data, hingga penerapan Machine Learning menggunakan regresi linear. Setiap notebook berisi kode program, hasil analisis, visualisasi, dan dokumentasi proses pembelajaran yang telah dilakukan selama perkuliahan.
+Di dalam repository ini terdapat notebook praktikum yang membahas berbagai materi, mulai dari pengenalan Data Science dan Python, pengolahan serta visualisasi data, preprocessing, machine learning, klasifikasi, clustering, association rule, sistem rekomendasi, hingga pengenalan Deep Learning dan Natural Language Processing (NLP). Setiap notebook berisi implementasi kode, hasil analisis, visualisasi, serta dokumentasi proses pembelajaran selama perkuliahan.
 
 ---
 
@@ -26,20 +26,27 @@ Di dalam repository ini terdapat berbagai notebook praktikum yang membahas konse
 - | 5 | Visualisasi Data | [Pertemuan 5](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan5_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb) 
 - | 6 | Persiapan Data (Preprocessing) | [Pertemuan 6](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan6_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb)
 - | 7 | Pengantar Machine Learning - Regresi Linear | [Pertemuan 7](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan7_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb) 
+- | 9 | Algoritma Klasifikasi (Bagian 1) | [Pertemuan 9](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan9_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb)
+- | 10 | Algoritma Klasifikasi (Bagian 2) | [Pertemuan 10](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan10_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb)
+- | 11 | Unsupervised Learning Clustering | [Pertemuan 11](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan11_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb)
+- | 12 | Asosiasi Data & Sistem Rekomendasi Dasar | [Pertemuan 12](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan12_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb)
+- | 13 | Deep Learning dan NLP Dasar | [Pertemuan 13](https://github.com/mhdhaikal22/data-science-2026/blob/main/Pertemuan13_%5BMUHAMMAD_HAIKAL%5D_%5B240401010269%5D.ipynb)
 
 ---
 
 4. Tools dan Library yang Digunakan
 
 - Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- SciPy
 - Google Colab
 - GitHub
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- SciPy
+- Scikit-learn
+- mlxtend
+- TensorFlow / Keras
 
 ---
 
@@ -55,6 +62,6 @@ Menggunakan Google Colab
 
 6. Kesimpulan
 
-Selama mengikuti praktikum Data Science Pertemuan 1–7, saya mempelajari berbagai tahapan penting dalam proses analisis data. Materi dimulai dari dasar-dasar Python, manipulasi data menggunakan Pandas dan NumPy, pembersihan data (data cleaning), analisis statistik, visualisasi data, hingga preprocessing data untuk kebutuhan Machine Learning.
+Selama mengikuti praktikum Pengantar Data Science Pertemuan 1–13, saya mempelajari alur lengkap proses Data Science, mulai dari dasar Python, manipulasi dan pembersihan data, analisis statistik, visualisasi data, preprocessing, hingga penerapan berbagai algoritma Machine Learning.
 
-Selain itu, saya juga mempelajari konsep dasar Machine Learning menggunakan regresi linear, termasuk proses persiapan data, pelatihan model, dan evaluasi performa model. Seluruh praktikum memberikan pemahaman yang lebih baik mengenai alur kerja Data Science dari pengumpulan data hingga pembuatan model prediksi.
+Selain itu, saya juga mempelajari algoritma klasifikasi, clustering, association rule, sistem rekomendasi, serta pengenalan Deep Learning dan Natural Language Processing (NLP). Seluruh praktikum memberikan pemahaman yang lebih baik mengenai tahapan pengolahan data dan penerapan teknik Data Science untuk menyelesaikan berbagai permasalahan analisis data.
